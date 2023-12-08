@@ -47,5 +47,8 @@
 	<string>030E6D6F-69A2-4515-9D77-99342CB9AE76</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
+    <key>Signature</key>
+    <data>iLcEABMKAB0WIQQyokOA2OlBW0P0q+3mgtPlJPciLwUCZXJwvgAKCRDmgtPlJPciL3HeAgjL3xcOGta6v6+XgHHqbY1W620aXaD2x8dB2eNoMMBgapP6woaWYuu6X6oQZ3bYXtJmrioOgOmAZgsdzhWRUNb7NgIFG3kpFSCXJVrWRCJxIyNAYGjn1CEmwFFij6TThuinZ0Z9wpKOAyHqM29FBBQbD2z11MHgQ21Re8icJcRk9gdJn2k=
+</data>
 </dict>
 </plist>
